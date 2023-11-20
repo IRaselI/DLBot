@@ -1,0 +1,2 @@
+# DLBot
+Discord Logger Bot
