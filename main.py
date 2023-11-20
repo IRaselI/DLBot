@@ -810,8 +810,4 @@ async def on_voice_state_update(member: discord.Member, before: discord.VoiceSta
 # ----------------------------------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    # Alt
-    # bot.run('MTA4OTg2MjU5ODkzNTE4NzU4Nw.G3fGIt.llr7zr_3c1s2mqZ9Bskybxcj4ye--_1zEEmur0')
-    # Grind
     bot.run('TOKEN')
-    bot.run('OTIyNzYzNjgzNjEwOTE0ODQ3.GaRcAN.YPh9Ju1qkGnnYodI5AQcnRPIFu_AgqvcUH8MGI')
